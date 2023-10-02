@@ -2,7 +2,8 @@
 
 Welcome to the Virtual Keyboard project! This project provides a simple web-based virtual keyboard that allows users to input text using both the physical keyboard and on-screen keyboard clicks. The project is built using HTML, CSS, and JavaScript.
 
-[Documentation + Explanation of developing this project](https://iq.opengenus.org/virtual-keyboard-html/) from scratch.
+[Documentation + Explanation of developing this project](https://iq.opengenus.org/virtual-keyboard-html/) from scratch.<br>
+This project has been developed by **Mizbaul Haque Maruf**, OpenGenus intern.
 
 Demo:
 
